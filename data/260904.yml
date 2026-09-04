@@ -7,7 +7,7 @@ about:
   head: d328397
   archived: false
   latestVersion: v0.7.2
-  collectedAt: 2026-09-04T19:51:54Z
+  collectedAt: 2026-09-04T20:49:57Z
 timeline:
   created: 2024-02-25
   lastCommit: 2026-08-29
@@ -84,5 +84,58 @@ total:
   openIssue: 77
   commit: 4096
 ---
+path: /home/runner/.x-repo/github.com/neurocyte/flow
+collectedAt: 2026-09-04T20:49:58Z
+loc:
+  Zig:
+    code: 70740
+    comments: 1758
+    blanks: 8456
+    files: 206
+  Json:
+    code: 1725
+    comments: 0
+    blanks: 155
+    files: 4
+  Glsl:
+    code: 433
+    comments: 100
+    blanks: 86
+    files: 1
+  Bash:
+    code: 317
+    comments: 6
+    blanks: 81
+    files: 4
+  Sh:
+    code: 118
+    comments: 4
+    blanks: 22
+    files: 3
+  Dockerfile:
+    code: 6
+    comments: 0
+    blanks: 3
+    files: 1
+  CHeader:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 341
+    blanks: 153
+    files: 2
+  Text:
+    code: 0
+    comments: 268
+    blanks: 0
+    files: 2
+total:
+  code: 73374
+  comments: 2477
+  blanks: 8956
+  files: 224
 ---
 
