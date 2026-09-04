@@ -1,22 +1,24 @@
 about:
-  description: Flow Control: a programmer's text editor
+  description:
+  |
+    Flow Control: a programmer's text editor
   license: MIT
   homepage: https://flow-control.dev
   head: d328397
   archived: false
   latestVersion: v0.7.2
-  collectedAt: 2026-09-04T04:43:56Z
+  collectedAt: 2026-09-04T19:51:54Z
 timeline:
   created: 2024-02-25
   lastCommit: 2026-08-29
   lastRelease: 2026-02-14
 popularity:
-  star: 2206
+  star: 2208
   watcher: 13
   fork: 115
   release: 12
   contributor: 57
-  pullRequest: 29
+  pullRequest: 193
   issue: 404
 language:
   Zig: 3153615
@@ -24,7 +26,7 @@ language:
   Shell: 14864
   Dockerfile: 153
   C: 20
-totalLine: 3194554
+totalBytes: 3194554
 recent:
   last30d:
     since: 2026-08-05
@@ -34,6 +36,14 @@ recent:
     closedIssue: 3
     openIssue: 3
     commit: 166
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 1
+    closedIssue: 15
+    openIssue: 16
+    commit: 341
   last90d:
     since: 2026-06-06
     release: 0
@@ -58,3 +68,21 @@ recent:
     closedIssue: 171
     openIssue: 60
     commit: 2213
+  last720d:
+    since: 2024-09-14
+    release: 12
+    mergedPR: 148
+    openPR: 2
+    closedIssue: 305
+    openIssue: 77
+    commit: 3543
+total:
+  release: 12
+  mergedPR: 164
+  openPR: 2
+  closedIssue: 327
+  openIssue: 77
+  commit: 4096
+---
+---
+
