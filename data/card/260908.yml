@@ -5,13 +5,13 @@ about:
   head: bacac5d
   archived: false
   latestVersion: "v0.7.2"
-  collectedAt: 2026-09-08T02:54:48Z
+  collectedAt: 2026-09-08T05:26:07Z
 timeline:
   created: 2024-02-25
   lastCommit: 2026-09-07
   lastRelease: 2026-02-14
 popularity:
-  star: 2212
+  star: 2213
   watcher: 13
   fork: 115
   release: 12
@@ -83,7 +83,7 @@ total:
   commit: 4099
 ---
 path: /home/runner/.x-repo/github.com/neurocyte/flow
-collectedAt: 2026-09-08T02:54:53Z
+collectedAt: 2026-09-08T05:26:13Z
 loc:
   Zig:
     code: 70742
