@@ -38,7 +38,7 @@ x install flow
 
 ## 流行度
 
-- **Star**: 2,217 · **Fork**: 115 · **开放 issue**: 407 · **贡献者**: 57
+- **Star**: 2,219 · **Fork**: 115 · **开放 issue**: 407 · **贡献者**: 57
 
 ## 累计统计
 
@@ -135,4 +135,4 @@ flow 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T05:33:39Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T19:22:14Z._
