@@ -48,12 +48,12 @@ Total: **74,460** lines of code across **220** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 0 | 3 | 3 | 117 |
-| last60d | 2026-07-14 | 0 | 0 | 1 | 17 | 16 | 340 |
-| 90d | 2026-06-14 | 0 | 3 | 1 | 21 | 19 | 533 |
-| last180d | 2026-03-16 | 0 | 19 | 2 | 42 | 27 | 956 |
-| 360d | 2025-09-17 | 4 | 73 | 2 | 172 | 61 | 2214 |
-| last720d | 2024-09-22 | 12 | 148 | 2 | 307 | 78 | 3559 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 3 | 3 | 67 |
+| last60d | 2026-07-15 | 0 | 0 | 1 | 17 | 16 | 274 |
+| 90d | 2026-06-15 | 0 | 3 | 1 | 21 | 19 | 482 |
+| last180d | 2026-03-17 | 0 | 19 | 2 | 42 | 27 | 948 |
+| 360d | 2025-09-18 | 4 | 73 | 2 | 172 | 61 | 2175 |
+| last720d | 2024-09-23 | 12 | 148 | 2 | 307 | 78 | 3557 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for flow lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:26:15Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:58:31Z._
