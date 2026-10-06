@@ -14,12 +14,12 @@ x install flow
 
 ## Code insight
 
-Total: **84,011** lines of code across **243** files in the top 5 languages.
+Total: **84,502** lines of code across **246** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Zig | 81,195 | 1,837 | 9,837 | 231 |
-| Json | 1,910 | 0 | 166 | 4 |
+| Zig | 81,663 | 1,837 | 9,931 | 234 |
+| Json | 1,933 | 0 | 166 | 4 |
 | Glsl | 433 | 100 | 86 | 1 |
 | Bash | 324 | 6 | 85 | 4 |
 | Sh | 134 | 4 | 24 | 3 |
@@ -33,27 +33,27 @@ Total: **84,011** lines of code across **243** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.7.2` (2026-02-14)
-- **Last commit**: 2026-10-02
+- **Last commit**: 2026-10-05
 - **Assets in release**: 66
 
 ## Popularity
 
-- **Stars**: 2,456 · **Forks**: 121 · **Open issues**: 411 · **Contributors**: 60
+- **Stars**: 2,456 · **Forks**: 121 · **Open issues**: 412 · **Contributors**: 60
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 166 · **Open PRs**: 3 · **Closed issues**: 333 · **Open issues**: 78 · **Commits**: 4348
+- **Releases**: 12 · **Merged PRs**: 166 · **Open PRs**: 3 · **Closed issues**: 338 · **Open issues**: 74 · **Commits**: 4358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 2 | 2 | 5 | 2 | 209 |
-| last60d | 2026-08-06 | 0 | 2 | 2 | 8 | 3 | 335 |
-| 90d | 2026-07-07 | 0 | 2 | 3 | 21 | 17 | 572 |
-| last180d | 2026-04-08 | 0 | 17 | 3 | 44 | 25 | 1053 |
-| 360d | 2025-10-10 | 4 | 68 | 3 | 159 | 55 | 2221 |
-| last720d | 2024-10-15 | 12 | 146 | 3 | 311 | 78 | 3745 |
+| 30d | 2026-09-06 | 0 | 2 | 2 | 3 | 2 | 219 |
+| last60d | 2026-08-07 | 0 | 2 | 2 | 8 | 3 | 345 |
+| 90d | 2026-07-08 | 0 | 2 | 3 | 22 | 16 | 582 |
+| last180d | 2026-04-09 | 0 | 17 | 3 | 46 | 24 | 1063 |
+| 360d | 2025-10-11 | 4 | 68 | 3 | 163 | 52 | 2231 |
+| last720d | 2024-10-16 | 12 | 146 | 3 | 316 | 74 | 3748 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for flow lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:26:52Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:10:37Z._
