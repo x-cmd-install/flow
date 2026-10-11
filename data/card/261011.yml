@@ -1,0 +1,149 @@
+about:
+  description: "Flow Control: a programmer's text editor"
+  license: MIT
+  homepage: https://flow-control.dev
+  head: 1a9d7c9
+  archived: false
+  latestVersion: "v0.7.2"
+  latestRelease: "v0.7.2"
+  latestPrerelease: ""
+  collectedAt: 2026-10-11T06:29:59Z
+timeline:
+  created: 2024-02-25
+  lastCommit: 2026-10-10
+  lastVersion: 2026-02-14
+  lastRelease: 2026-02-14
+  lastPrerelease: 
+popularity:
+  star: 2466
+  watcher: 13
+  fork: 123
+  release: 12
+  contributor: 61
+  pullRequest: 198
+  issue: 414
+language:
+  Zig: 3803403
+  GLSL: 25902
+  Shell: 15964
+  Dockerfile: 230
+  C: 198
+totalBytes: 3845697
+recent:
+  last30d:
+    since: 2026-09-11
+    release: 0
+    mergedPR: 4
+    openPR: 1
+    closedIssue: 5
+    openIssue: 2
+    commit: 249
+  last60d:
+    since: 2026-08-12
+    release: 0
+    mergedPR: 4
+    openPR: 1
+    closedIssue: 10
+    openIssue: 3
+    commit: 372
+  last90d:
+    since: 2026-07-13
+    release: 0
+    mergedPR: 4
+    openPR: 2
+    closedIssue: 25
+    openIssue: 15
+    commit: 571
+  last180d:
+    since: 2026-04-14
+    release: 0
+    mergedPR: 17
+    openPR: 2
+    closedIssue: 47
+    openIssue: 23
+    commit: 1118
+  last360d:
+    since: 2025-10-16
+    release: 4
+    mergedPR: 66
+    openPR: 2
+    closedIssue: 167
+    openIssue: 50
+    commit: 2290
+  last720d:
+    since: 2024-10-21
+    release: 12
+    mergedPR: 146
+    openPR: 2
+    closedIssue: 317
+    openIssue: 72
+    commit: 3797
+total:
+  release: 12
+  mergedPR: 168
+  openPR: 2
+  closedIssue: 342
+  openIssue: 72
+  commit: 4421
+---
+path: /home/runner/.x-repo/github.com/neurocyte/flow
+collectedAt: 2026-10-11T06:30:06Z
+loc:
+  Zig:
+    code: 85094
+    comments: 1907
+    blanks: 10262
+    files: 240
+  Json:
+    code: 1953
+    comments: 0
+    blanks: 166
+    files: 4
+  Glsl:
+    code: 433
+    comments: 100
+    blanks: 86
+    files: 1
+  Bash:
+    code: 324
+    comments: 6
+    blanks: 85
+    files: 4
+  Sh:
+    code: 134
+    comments: 4
+    blanks: 24
+    files: 3
+  Dockerfile:
+    code: 8
+    comments: 0
+    blanks: 5
+    files: 1
+  CHeader:
+    code: 7
+    comments: 0
+    blanks: 0
+    files: 3
+  Bitbake:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 341
+    blanks: 153
+    files: 2
+  Text:
+    code: 0
+    comments: 268
+    blanks: 0
+    files: 2
+total:
+  code: 87992
+  comments: 2626
+  blanks: 10781
+  files: 261
+---
+
+---
