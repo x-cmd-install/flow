@@ -1147,7 +1147,7 @@
       "state": "uploaded",
       "size": 20134558,
       "digest": "sha256:7b0e34e9968d39c102f7ea8c856e082ab5c3f90981485e5d48accecf9be38431",
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2026-02-14T16:33:48Z",
       "updated_at": "2026-02-14T16:35:20Z",
       "browser_download_url": "https://github.com/neurocyte/flow/releases/download/v0.7.2/flow-v0.7.2-linux-x86_64-debug.tar.gz"
@@ -1255,7 +1255,7 @@
       "state": "uploaded",
       "size": 11538557,
       "digest": "sha256:3f647aa06e3910d047a72b2c0d8af222b9f0f4f9325d8778f72d58acad1f8157",
-      "download_count": 1512,
+      "download_count": 1516,
       "created_at": "2026-02-14T16:33:52Z",
       "updated_at": "2026-02-14T16:35:10Z",
       "browser_download_url": "https://github.com/neurocyte/flow/releases/download/v0.7.2/flow-v0.7.2-linux-x86_64.tar.gz"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 39654293,
       "digest": "sha256:23a1c630ba7c3487988bc2cc77b6b8189ec955c0796d820e423da1aecd8225b7",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-02-14T16:35:37Z",
       "updated_at": "2026-02-14T16:37:21Z",
       "browser_download_url": "https://github.com/neurocyte/flow/releases/download/v0.7.2/flow-v0.7.2-windows-x86_64-debug.zip"
@@ -2299,7 +2299,7 @@
       "state": "uploaded",
       "size": 438,
       "digest": "sha256:e1736a82dfba4edd6941fd560182b9a45614026f0f4915e6ce71b466ede6b6ca",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-02-14T16:35:48Z",
       "updated_at": "2026-02-14T16:35:48Z",
       "browser_download_url": "https://github.com/neurocyte/flow/releases/download/v0.7.2/flow-v0.7.2-windows-x86_64-debug.zip.sig"
@@ -2335,7 +2335,7 @@
       "state": "uploaded",
       "size": 23347394,
       "digest": "sha256:a8a4f1c6fde1dc79255e58f652d306f8c7fc6697e907733f501e89c86417b4f0",
-      "download_count": 1090,
+      "download_count": 1093,
       "created_at": "2026-02-14T16:35:49Z",
       "updated_at": "2026-02-14T16:37:00Z",
       "browser_download_url": "https://github.com/neurocyte/flow/releases/download/v0.7.2/flow-v0.7.2-windows-x86_64.zip"
@@ -2407,7 +2407,7 @@
       "state": "uploaded",
       "size": 438,
       "digest": "sha256:ec0fa6dbd1bc5a371ef2dbb78538d4f6426c31f4c7afc3fd95252eef94c1750f",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-02-14T16:35:51Z",
       "updated_at": "2026-02-14T16:35:51Z",
       "browser_download_url": "https://github.com/neurocyte/flow/releases/download/v0.7.2/flow-v0.7.2-windows-x86_64.zip.sig"
