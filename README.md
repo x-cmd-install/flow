@@ -38,22 +38,22 @@ Total: **117,399** lines of code across **301** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,561 · **Forks**: 134 · **Open issues**: 422 · **Contributors**: 70
+- **Stars**: 2,561 · **Forks**: 134 · **Open issues**: 423 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 181 · **Open PRs**: 5 · **Closed issues**: 362 · **Open issues**: 60 · **Commits**: 5060
+- **Releases**: 12 · **Merged PRs**: 181 · **Open PRs**: 5 · **Closed issues**: 362 · **Open issues**: 61 · **Commits**: 5060
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 0 | 10 | 4 | 3 | 5 | 388 |
-| last60d | 2026-09-22 | 0 | 15 | 5 | 7 | 6 | 863 |
-| 90d | 2026-08-23 | 0 | 16 | 5 | 14 | 6 | 973 |
-| last180d | 2026-05-25 | 0 | 25 | 5 | 49 | 16 | 1571 |
-| 360d | 2025-11-26 | 3 | 59 | 5 | 143 | 32 | 2631 |
-| last720d | 2024-12-01 | 12 | 155 | 5 | 326 | 59 | 4262 |
+| 30d | 2026-10-23 | 0 | 10 | 4 | 3 | 6 | 240 |
+| last60d | 2026-09-23 | 0 | 15 | 5 | 7 | 7 | 785 |
+| 90d | 2026-08-24 | 0 | 16 | 5 | 14 | 7 | 937 |
+| last180d | 2026-05-26 | 0 | 24 | 5 | 49 | 17 | 1540 |
+| 360d | 2025-11-27 | 3 | 58 | 5 | 143 | 33 | 2574 |
+| last720d | 2024-12-02 | 12 | 155 | 5 | 326 | 59 | 4256 |
 
 ## Release assets
 
@@ -135,4 +135,4 @@ Install metadata for flow lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:37:42Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:32:04Z._
